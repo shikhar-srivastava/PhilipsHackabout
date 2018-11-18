@@ -1,8 +1,5 @@
 # PhilipsHackathon
-Creating a Private repository to store our Model code, cleaned Datasets.
-
-It seems every participant's VMs is accessible by iterating through their private IP's.
-Since, we'll avoid uploading any solutions to the VM (except perhaps for testing & execution only), this repository is henceforth to share the Competition code, datasets and the like, amongst us.
+Creating a repository to store our Model code, cleaned Datasets.
 
 ### File Structure:
 
